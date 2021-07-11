@@ -1,3 +1,4 @@
+Project- FACE RECGONISER
 Used cv2 (OpenCV module) used for reading and writing images and to input a video stream,
 KNN algorithm , Haar Cascades classifier
 
